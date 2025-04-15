@@ -1,5 +1,4 @@
 import click
-import pandas as pd
 
 from pipeline.clustering.clustering import HDBSCANClusters
 

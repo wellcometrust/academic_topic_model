@@ -29,7 +29,7 @@ class EmbeddingModel:
             model_name(str): HuggingFace Hub model name.
             parallelise(bool): Parallelise over all available GPUs.
 
-        Attributes:
+        Attributes:.
             device(str): GPU device used, can be CUDA or MPS.
             gpu_count(int): Number of available GPU devices.
             tokenizer(transformers.PreTrainedTokenize): A pre trained

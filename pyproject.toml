@@ -4,4 +4,16 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "awswrangler>=3.11.0",
+    "bertopic>=0.17.0",
+    "click>=8.1.8",
+    "hdbscan>=0.8.40",
+    "langchain>=0.3.23",
+    "matplotlib>=3.10.1",
+    "pandas>=2.2.3",
+    "torch>=2.6.0",
+    "tqdm>=4.67.1",
+    "umap>=0.1.1",
+    "wandb>=0.19.9",
+]
