@@ -1,2 +1,2 @@
-# pubmed_topic_model
+# PubMed Topic Model
 LLM Topic Model of PubMed OA Publications.
