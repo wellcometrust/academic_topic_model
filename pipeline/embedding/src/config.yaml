@@ -1,0 +1,7 @@
+# Data Config
+input_uri: 's3://datalabs-data/funding_impact_metrics/raw_abstracts/'
+output_uri: 's3://datalabs-data/funding_impact_metrics/raw_abstracts/'
+fields_of_research: ['2206', '2211', '2217', '2216']
+
+# Embedding Config
+
